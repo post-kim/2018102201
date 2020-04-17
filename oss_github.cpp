@@ -7,8 +7,10 @@ int main()
 	{
 		for (int j = 1; j < 9; j++)
 			cout << i << " X " << j << " = " << i * j << endl;
+
 		cout << endl;
 	}
+	cout << "수정수정!!"
 
 	return 0;
 }
